@@ -1,0 +1,17 @@
+{
+  "jee": {
+    "name": "JEE",
+    "link": "https://drive.google.com/file/d/1crJvQDZAFh4cmm5FPsFx62uI29mzgddn/view?usp=sharing",
+    "description": "JEE Main and JEE Advanced are national level entrance exams which are held for offering admission in the premier engineering institutes in India. JEE Main is conducted by NTA for the candidates seeking admission to NITs, IIITs, GFTIs as well as other. . ."
+  },
+  "neet": {
+    "name": "NEET",
+    "link": "",
+    "description": "The National Eligibility cum Entrance Test (Undergraduate) (or NEET (UG)), formerly the All India Pre-Medical Test (AIPMT), is an entrance examination in India for . . ."
+  },
+  "bitsat": {
+    "name": "BITSAT",
+    "link": "https://drive.google.com/file/d/1-y8yTkq9GXGfq09otZbL5-j9YqqGp0Zk/view?usp=sharing",
+    "description": "Birla Institute of Science and Technology Admission Test (BITSAT) is a University level entrance exam. BITSAT 2021 will be a 3-hour test in which the candidate's knowledge of Physics, Chemistry and Mathematics will . . . "
+  }
+}
