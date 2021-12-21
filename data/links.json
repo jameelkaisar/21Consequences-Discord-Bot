@@ -1,17 +1,72 @@
 {
-  "jee": {
-    "name": "JEE",
-    "link": "https://drive.google.com/file/d/1crJvQDZAFh4cmm5FPsFx62uI29mzgddn/view?usp=sharing",
-    "description": "JEE Main and JEE Advanced are national level entrance exams which are held for offering admission in the premier engineering institutes in India. JEE Main is conducted by NTA for the candidates seeking admission to NITs, IIITs, GFTIs as well as other. . ."
-  },
-  "neet": {
-    "name": "NEET",
-    "link": "",
-    "description": "The National Eligibility cum Entrance Test (Undergraduate) (or NEET (UG)), formerly the All India Pre-Medical Test (AIPMT), is an entrance examination in India for . . ."
-  },
-  "bitsat": {
-    "name": "BITSAT",
-    "link": "https://drive.google.com/file/d/1-y8yTkq9GXGfq09otZbL5-j9YqqGp0Zk/view?usp=sharing",
-    "description": "Birla Institute of Science and Technology Admission Test (BITSAT) is a University level entrance exam. BITSAT 2021 will be a 3-hour test in which the candidate's knowledge of Physics, Chemistry and Mathematics will . . . "
-  }
+    "aviation": {
+        "description": "Aviation is the activities surrounding mechanical flight and the aircraft industry. Aircraft includes fixed-wing and rotary-wing types, morphable wings, wing-less lifting bodies, as well as lighter-than-air craft such as hot air balloons and airships.",
+        "link": "https://drive.google.com/file/d/1D3qLwVhb_7LqNNXA-MwGb9u_wSiqtz8B/view?usp=sharing",
+        "name": "BBA in Aviation"
+    },
+    "bitsat": {
+        "description": "Birla Institute of Science and Technology Admission Test (BITSAT) is a University level entrance exam. BITSAT 2021 will be a 3-hour test in which the candidate's knowledge of Physics, Chemistry and Mathematics will . . . ",
+        "link": "https://drive.google.com/file/d/1-y8yTkq9GXGfq09otZbL5-j9YqqGp0Zk/view?usp=sharing",
+        "name": "BITSAT"
+    },
+    "commerce": {
+        "description": "Commerce is the field of study in which students learn topics related to business, financial information/transactions, trading of economic values, merchandising and trading. Commerce acts as trading conduct for economic agents.",
+        "link": "https://drive.google.com/file/d/17ZMYskLRH2bXH1wIa0hxi0JoyiWr4lA-/view?usp=sharing",
+        "name": "Commerce Stream"
+    },
+    "cpl": {
+        "description": "A commercial pilot licence (CPL), is a type of pilot licence that permits the holder to act as a pilot of an aircraft and be paid for his/her work.",
+        "link": "https://drive.google.com/file/d/1MMLDHyAZPhwp2QBz-YosN6yP-ahB9Ez2/view?usp=sharing",
+        "name": "Commercial Pilot Licence"
+    },
+    "humanities": {
+        "description": "Defining humanities is a difficult task. However, it can be said in a few words that it is an academic discipline which deals with the study of the ‘Human Condition’, utilizing methodologies that are usually analytical, critical or speculative.",
+        "link": "https://drive.google.com/file/d/1vqE58YxY9KRB5dvo8y6E9XcRv6ALjBAZ/view?usp=sharing",
+        "name": "Humanities Stream"
+    },
+    "inspire scholarship": {
+        "description": "INSPIRE Scholarship for Higher Education (SHE) is a scholarship programme implemented by the Department of Science and Technology ",
+        "link": "https://drive.google.com/file/d/13DwIurmR1ONzgd7BYjw-sTBAoaYflM1I/view?usp=sharing",
+        "name": "Inspire Scholarship"
+    },
+    "iti": {
+        "description": "ITI stands for Industrial Training Institute. ITIs are known to offer job oriented training courses. These training programs are popularly known as 'trades'.",
+        "link": "https://drive.google.com/file/d/1ZauY0Vqh9HjtXUhKOmjEbfJVZrMS8m_s/view?usp=sharing",
+        "name": "ITI Courses"
+    },
+    "jee": {
+        "description": "JEE Main and JEE Advanced are national level entrance exams which are held for offering admission in the premier engineering institutes in India. JEE Main is conducted by NTA for the candidates seeking admission to NITs, IIITs, GFTIs as well as other. . .",
+        "link": "https://drive.google.com/file/d/1crJvQDZAFh4cmm5FPsFx62uI29mzgddn/view?usp=sharing",
+        "name": "JEE"
+    },
+    "mba": {
+        "description": "The Master of Business Administration (MBA) is an internationally-recognized degree designed to develop the skills required for careers in business and management. ",
+        "link": "https://drive.google.com/file/d/1Addkuiqfe833OFonHZ3tGWsbaRFL3Zqr/view?usp=sharing",
+        "name": "MBA"
+    },
+    "medical": {
+        "description": "Completing class 10th, students have a choice to choose one particular stream out of three Arts, Commerce and Science. ",
+        "link": "https://drive.google.com/file/d/1zrmUadPYT5Ty7e4JMpxOJbbCZI2BcKOi/view?usp=sharing",
+        "name": "medical stream"
+    },
+    "neet": {
+        "description": "The National Eligibility cum Entrance Test (Undergraduate) (or NEET (UG)), formerly the All India Pre-Medical Test (AIPMT), is an entrance examination in India for . . .",
+        "link": "",
+        "name": "NEET"
+    },
+    "nift": {
+        "description": "National Institute of Fashion Technology conducts the NIFT Entrance Examination every year for admission to its undergraduate (Bachelor of Design, Bachelor of Fashion Technology) and post-graduate courses in Fashion. ",
+        "link": "https://drive.google.com/file/d/136PLmK7M897UJsZKoc-Ao6PYj8dOuRzI/view?usp=sharing",
+        "name": "NIFT"
+    },
+    "pharmacy": {
+        "description": "Bachelor of Pharmacy (B.Pharma) is a four-year undergraduate program in ....",
+        "link": "https://drive.google.com/file/d/1mc4qu8iWWjzN2opbuNAKw7gRzft-XJ6Z/view?usp=sharing",
+        "name": "Bachelor of Pharmacy"
+    },
+    "psychology": {
+        "description": "Psychology is the study of human behavior and mental processes. Psychologists study a person’s reactions, emotions, and behavior, and apply their understanding of that behavior to treat the associated behavioral problems.",
+        "link": "https://drive.google.com/file/d/1Yh1ZddVBsKCzotzdVcezWPngvdcjLslh/view?usp=sharing",
+        "name": "Career in Psychology"
+    }
 }
