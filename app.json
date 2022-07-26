@@ -2,6 +2,7 @@
    "name": "consequences-discord-bot",
    "description": "21Consequences Discord Bot",
    "repository": "https://github.com/JameelKaisar/21Consequences-Discord-Bot",
+   "stack": "heroku-22",
    "buildpacks": [
       {
          "url": "heroku/python"
